@@ -1,6 +1,6 @@
 media:
   input: public
-  output: /
+  output: /iafilia/
 content:
   - name: posts
     label: Posts
